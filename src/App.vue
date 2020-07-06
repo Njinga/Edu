@@ -1,7 +1,7 @@
 <template>
     <div id="app" class=" border border-info">
-        <Navbar></Navbar>
-
+        <!--<Navbar></Navbar>-->
+        <SideNav></SideNav>
         <router-view />
 
         <ScrollTopArrow></ScrollTopArrow>
@@ -12,16 +12,18 @@
 
 <script>
 // @ is an alias to /src
-    import Navbar from '@/components/Navbar.vue'
+    //import Navbar from '@/components/Navbar.vue'
     import Footer from '@/components/Footer.vue'
     import ScrollTopArrow from '@/components/ScrollTopArrow.vue'
+    import SideNav from '@/components/SideNav.vue'
 
 export default {
-  name: 'home',
+  name: 'app',
   components: {
-      Navbar,
+      //Navbar,
       Footer,
-      ScrollTopArrow
+      ScrollTopArrow,
+      SideNav
   }
 }
 </script>
@@ -31,7 +33,7 @@ export default {
 
 #app {
   font-family: 'Roboto', Helvetica, Arial, sans-serif;
-  margin-top: 55px;
+  margin-top: 45px;
   text-align: center;
   color: #2c3e50;
 }

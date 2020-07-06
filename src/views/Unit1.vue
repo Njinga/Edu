@@ -64,7 +64,7 @@
                                     <br />
                                     <h2 id="item-1" class="h2-responsive"> 1.1 Introduction</h2>
                                     <div class="ml-5">
-                                        <p class="text-justify meme ml-5">
+                                        <p class="text-justify meme">
 
                                             This unit introduces you to the
                                             concept of Educational
@@ -83,7 +83,7 @@
                                             which is closely related to educational/instructional technologies as they too
                                             (ICTs) are used as equipment and tools when teaching learners in a classroom.
                                         </p>
-                                        <div class="note note-info ml-5">
+                                        <div class="note note-info">
                                             <blockquote class="blockquote bq-info">
                                                 <h4 id="item-1-1"> <i class="fas fa-paper-plane"> Unit Outcomes</i></h4>
                                                 <p class="text-justify">
@@ -99,7 +99,7 @@
                                             </blockquote>
                                         </div>
                                         <br />
-                                        <div class="note note-success ml-5">
+                                        <div class="note note-success">
                                             <blockquote class="blockquote bq-success">
                                                 <h4 id="item-1-2"> <i class="fas fa-check-square"> Terminolgy</i></h4>
                                                 <p class="text-justify">
