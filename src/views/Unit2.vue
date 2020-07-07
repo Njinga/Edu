@@ -100,7 +100,7 @@
                                     <div class=" note note-success text-justify">
                                         <blockquote class="blockquote bq-success">
                                             <h4 id="item-1-2"><i class="fas fa-check-square"> Terminolgy</i></h4>
-                                            
+
 
                                             <p>
                                                 <kk> Instructional Media</kk>:Anything that carries information between
@@ -130,9 +130,9 @@
                                                 viewing; motion and other media can be displayed via a
                                                 computer projector.<br /><br />
 
-                                                </p>
+                                            </p>
 
-</blockquote>
+                                        </blockquote>
                                     </div>
                                 </div>
                             </mdb-row>
@@ -295,7 +295,7 @@
                                             Select any media of your choice and discuss how/why you would use it in the classroom based on Dale's Cone of Experience according to the degree of abstraction.
                                         </blockquote>
                                     </div>
-                                    <br/><br/>
+                                    <br /><br />
                                     <p class="text-justify meme">
                                         Media serve as extensions of our efforts to communicate with our students. A large percentage of things that we learn are a direct result of our visual and audio-visual experiences. Our senses are the gateway to the acquisition of knowledge. According to Sampath (1981), research shows that we learn:
                                         <ul>
@@ -646,16 +646,16 @@
                                         A cartoon is an interpretive picture that makes use of line, symbols and exaggeration to represent ideas, people, events, or situations in pictorial form.  Cartoons are mainly used to influence public opinion.   Cartoons employ the principle of caricature (gross and ludicrous exaggeration or distortion of parts of a whole to emphasize the part i.e. the nose, or the chin). A comic is a form of cartoon in which the characters enact a story in a certain sequence to create a continuous pictorial story.   Both cartoons and comics are humorous and interesting, easy to read and excite the students. Appreciation and interpretation however depends on the experience and ability level of the students.  Therefore, be sure that the cartoons and comics are within the experiential and intellectual range of your students.
 
                                     </p>
-                                    </div>
-                                    <div class="note note-primary shadow-lg p-3 text-left ml-5 rounded">
-                                        <blockquote class="blockquote bq-info">
-                                            <i class="fas fa-tools"> Activity 2.3</i><br />
+                                </div>
+                                <div class="note note-primary shadow-lg p-3 text-left ml-5 rounded">
+                                    <blockquote class="blockquote bq-info">
+                                        <i class="fas fa-tools"> Activity 2.3</i><br />
 
-                                            Create a poster or chart explaining a concept in a lesson. Present the media to the course lecturer for assessment.
-                                        </blockquote>
-                                    </div>
-                                    <br />
-                                    <h4 id="item-3-1-3" class="h4-responsive text-left">2.3.1.3 Non-projected display surfaces</h4>
+                                        Create a poster or chart explaining a concept in a lesson. Present the media to the course lecturer for assessment.
+                                    </blockquote>
+                                </div>
+                                <br />
+                                <h4 id="item-3-1-3" class="h4-responsive text-left">2.3.1.3 Non-projected display surfaces</h4>
                                 <div class="ml-5">
                                     <p class="text-justify meme">
                                         For you to use many of the non-projected visuals such as photographs, drawings, charts, graphs, or posters, you need to have a certain way of displaying them. The most commonly used classroom display surfaces include; the chalkboard, multipurpose board, pegboard, bulletin board, cloth board, exhibits, flip charts, and dioramas.
@@ -677,66 +677,66 @@
 
                                         </div>
 
-                                    
-                                    <br />
-                                    <p class="text-justify meme">
-                                        <kk>Multipurpose boards</kk> are also called whiteboards or marker boards. As the name suggests, they can be used for more than one purpose. They can be used to write on, and to project slides and overhead transparencies. These types of boards are preferred for use around computers since chalk dust can harm computers and disks. The smooth, white plastic surface of a multipurpose board requires a special erasable marker to write. You should avoid using permanent felt-tip markers as they damage the surface permanently.
-                                    </p>
-                                    <p class="text-justify meme">
-                                        <kk>A bulletin board</kk> is a surface on which bulletins or <i>brief news and announcements</i> of urgent interest are posted for public notice.  A bulletin board is a surface of variable size and shape made of material that holds pins, thumbtacks, and other materials without damaging the board.   A bulletin board could be used to display students' work and help to reinforce students' efforts to do a good job.
-                                    </p>
-                                    <p class="text-justify meme">
-                                        <kk>Cloth board</kk> is constructed of cloth stretched over a backing material such as plywood, masonite, or heavy cardboard. The cloth used could be made of flannel or felt material with a rough surface or from an old blanket for visuals to stick on. The visuals to be displayed on a cloth board should be able to hold onto the cloth by backing the visuals or other items to be attached with a coarse, hook-like texture.  You could also use coarse sandpaper on the back of visuals for attachment to a cloth board.  Cloth boards are useful when describing a certain process or when narrating a story since the visuals could be displayed in a sequence one after the other.
-                                    </p>
-                                    <p class="text-justify meme">
-                                        <kk>Flip Chart</kk> is a pad of large paper fastened together at the top and mounted to an easel (flip chart stand). Each individual sheet can hold limited verbal/visual message. The message could be written while the presenter is talking or can be prepared in advance.  The most common use of flip charts is for drawing of key illustrations and writing key words during a presentation. It is convenient to use a flip chart since you do not need electric power, it is portable, and only requires marking pen for writing or drawing.
-                                    </p>
-                                    <p class="text-center meme">
-                                        <img src="../assets/chart.png" class="img-fluid" alt="Responsive image"><br />
-                                        <i>  Flip Chart on a stand</i>
-                                    </p>
-                                    <p class="text-justify meme">
-                                        <kk>Exhibits</kk> are displays of various objects and visuals designed to form an integrated whole for instructional purposes. Exhibits could include; real objects, models, as well as graphic materials. For example, when teaching a topic on rocks, you might have an exhibition of different types of rocks for students to identify.
-                                    </p>
-                                    <p class="text-justify meme">
-                                        <kk>Dioramas</kk> are static displays consisting of a three-dimensional foreground and a flat or two-dimensional background to create a realistic scene. The term 'diorama' is derived from the Greek language and it means 'to see through'. This refers to a medium that enables a teacher to bring little sections of the real world into a classroom for the students to examine.  Dioramas represent three-dimensional scenes often in miniature form to represent natural settings. Dioramas could be used to illustrate different concepts.  For example, in geography they can be constructed to illustrate how certain landforms like craters, rift valleys, etc. are formed.
-                                    </p>
-                                    <p class="text-center meme">
-                                        <img src="../assets/box.png" class="img-fluid" alt="Responsive image"><br />
-                                        <kk> Example of Diorama showing a waterfall and boxes (3 dimensions)</kk>
-                                    </p>
-                                    <p class="text-justify meme">
-                                        Before you continue reading the module, please stop for a while and carry out the following activity.
-                                    </p>
 
-                                    <div class="note note-primary shadow-lg p-3 text-left rounded">
-                                        <blockquote class="blockquote bq-info">
-                                            <i class="fas fa-tools"> Activity 2.4</i><br />
-
-                                            <ol>
-                                                <li>
-                                                    Using your own words, explain why printed materials dominate most instructional situations in Swaziland schools.
-                                                </li>
-                                                <li>
-                                                    List the various non-projected media that we have discussed. What are the advantages of using each one of these non-projected visual media during instruction?
-                                                </li>
-                                            </ol>
-                                        </blockquote>
+                                        <br />
                                         <p class="text-justify meme">
-                                            <i>
-                                                In your answer to question one, you need to explain why printed materials have continued to be used even when the new technologies have invaded the classrooms such as computers. Consider the advantages that we mentioned above.<br />
-                                                In your answer to question two, you could mention the fact that non-projected media do not require any hardware equipment, nor do they need electricity. They are readily available from the environment, from textbooks and cost very little money if they have to be bought.
-                                            </i>
+                                            <kk>Multipurpose boards</kk> are also called whiteboards or marker boards. As the name suggests, they can be used for more than one purpose. They can be used to write on, and to project slides and overhead transparencies. These types of boards are preferred for use around computers since chalk dust can harm computers and disks. The smooth, white plastic surface of a multipurpose board requires a special erasable marker to write. You should avoid using permanent felt-tip markers as they damage the surface permanently.
                                         </p>
+                                        <p class="text-justify meme">
+                                            <kk>A bulletin board</kk> is a surface on which bulletins or <i>brief news and announcements</i> of urgent interest are posted for public notice.  A bulletin board is a surface of variable size and shape made of material that holds pins, thumbtacks, and other materials without damaging the board.   A bulletin board could be used to display students' work and help to reinforce students' efforts to do a good job.
+                                        </p>
+                                        <p class="text-justify meme">
+                                            <kk>Cloth board</kk> is constructed of cloth stretched over a backing material such as plywood, masonite, or heavy cardboard. The cloth used could be made of flannel or felt material with a rough surface or from an old blanket for visuals to stick on. The visuals to be displayed on a cloth board should be able to hold onto the cloth by backing the visuals or other items to be attached with a coarse, hook-like texture.  You could also use coarse sandpaper on the back of visuals for attachment to a cloth board.  Cloth boards are useful when describing a certain process or when narrating a story since the visuals could be displayed in a sequence one after the other.
+                                        </p>
+                                        <p class="text-justify meme">
+                                            <kk>Flip Chart</kk> is a pad of large paper fastened together at the top and mounted to an easel (flip chart stand). Each individual sheet can hold limited verbal/visual message. The message could be written while the presenter is talking or can be prepared in advance.  The most common use of flip charts is for drawing of key illustrations and writing key words during a presentation. It is convenient to use a flip chart since you do not need electric power, it is portable, and only requires marking pen for writing or drawing.
+                                        </p>
+                                        <p class="text-center meme">
+                                            <img src="../assets/chart.png" class="img-fluid" alt="Responsive image"><br />
+                                            <i>  Flip Chart on a stand</i>
+                                        </p>
+                                        <p class="text-justify meme">
+                                            <kk>Exhibits</kk> are displays of various objects and visuals designed to form an integrated whole for instructional purposes. Exhibits could include; real objects, models, as well as graphic materials. For example, when teaching a topic on rocks, you might have an exhibition of different types of rocks for students to identify.
+                                        </p>
+                                        <p class="text-justify meme">
+                                            <kk>Dioramas</kk> are static displays consisting of a three-dimensional foreground and a flat or two-dimensional background to create a realistic scene. The term 'diorama' is derived from the Greek language and it means 'to see through'. This refers to a medium that enables a teacher to bring little sections of the real world into a classroom for the students to examine.  Dioramas represent three-dimensional scenes often in miniature form to represent natural settings. Dioramas could be used to illustrate different concepts.  For example, in geography they can be constructed to illustrate how certain landforms like craters, rift valleys, etc. are formed.
+                                        </p>
+                                        <p class="text-center meme">
+                                            <img src="../assets/box.png" class="img-fluid" alt="Responsive image"><br />
+                                            <kk> Example of Diorama showing a waterfall and boxes (3 dimensions)</kk>
+                                        </p>
+                                        <p class="text-justify meme">
+                                            Before you continue reading the module, please stop for a while and carry out the following activity.
+                                        </p>
+
+                                        <div class="note note-primary shadow-lg p-3 text-left rounded">
+                                            <blockquote class="blockquote bq-info">
+                                                <i class="fas fa-tools"> Activity 2.4</i><br />
+
+                                                <ol>
+                                                    <li>
+                                                        Using your own words, explain why printed materials dominate most instructional situations in Swaziland schools.
+                                                    </li>
+                                                    <li>
+                                                        List the various non-projected media that we have discussed. What are the advantages of using each one of these non-projected visual media during instruction?
+                                                    </li>
+                                                </ol>
+                                            </blockquote>
+                                            <p class="text-justify meme">
+                                                <i>
+                                                    In your answer to question one, you need to explain why printed materials have continued to be used even when the new technologies have invaded the classrooms such as computers. Consider the advantages that we mentioned above.<br />
+                                                    In your answer to question two, you could mention the fact that non-projected media do not require any hardware equipment, nor do they need electricity. They are readily available from the environment, from textbooks and cost very little money if they have to be bought.
+                                                </i>
+                                            </p>
+                                        </div>
                                     </div>
                                 </div>
-                                </div>
 
 
 
 
 
-                                <br/>
+                                <br />
                                 <br />
                                 <h3 id="item-3-2" class="h3-responsive text-left">2.3.2 Projected media</h3>
                                 <div class="ml-5">

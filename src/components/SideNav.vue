@@ -1,15 +1,17 @@
 <template>
     <div>
-        <mdb-navbar position="top" :toggler="false" color="white">
+        <mdb-navbar position="top" :toggler="false" color="info">
             <mdb-navbar-nav left>
                 <mdb-icon icon="bars"
                           class="dark-grey-text"
                           size="2x"
                           @click.native="show = !show" />
             </mdb-navbar-nav>
-           
 
 
+            <form class="form-inline">
+                <input class="form-control" type="text" placeholder="Search" aria-label="Search">
+            </form>
         </mdb-navbar>
         <!--/.Navbar-->
         <mdb-side-nav-2 v-model="show"

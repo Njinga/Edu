@@ -2,8 +2,8 @@
     <div class="about">
         <div class="border border-light p-3 mb-5 rounded ">
             <div class="row">
-                <div class="col-sm-4 col-lg-3">
-                    <nav id="navbar-example3" class="navbar navbar-light sticky-top bg-light flex-column mt-4">
+                <div data-spy="scroll" class="col-sm-4 col-lg-3">
+                    <nav id="navbar-example3" class="navbar navbar-light sticky-top flex-column mt-4">
                         <a class="navbar-brand" href="#">Unit 6</a>
                         <nav class="nav nav-pills flex-column">
                             <a class="nav-link" href="#item-1">1.1 Introduction</a>
@@ -582,3 +582,9 @@
         </div>
     </div>
 </template>
+
+<style>
+    .scrollspy-example1 {
+        height:500px;
+    }
+</style>

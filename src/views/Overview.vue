@@ -1,6 +1,6 @@
 <template>
     <div class="Overview">
-        <div class="">
+        <div class="border border-light p-3 mb-5 rounded">
             <div class="row">
                 <div class="col-sm-4 col-lg-3">
                     <nav id="navbar-example3" class="navbar navbar-light sticky-top flex-column mt-4">
@@ -19,7 +19,7 @@
                     </nav>
                 </div>
                 <div class="col-sm-8 col-lg-9">
-                    <div data-spy="scroll" class="scrollspy-example z-depth-1  shadow-lg   rounded" data-target="#navbar-example3"
+                    <div data-spy="scroll" class="scrollspy-example z-depth-1 mt-4 shadow-lg p-3 mb-5 rounded" data-target="#navbar-example3"
                          data-offset="0">
 
                         <mdb-container fluid>
