@@ -1,5 +1,5 @@
 <template>
-    <div class="border border-light p-3 mb-5  rounded ">
+    <div class="border border-light p-3 mb-5 rounded ">
         <div class="row">
             <div class="col-sm-4 col-lg-3">
                 <nav id="navbar-example3" class="navbar navbar-light sticky-top  flex-column mt-4">

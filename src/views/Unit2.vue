@@ -58,7 +58,7 @@
                          data-offset="0">
                         <mdb-container fluid>
                             <mdb-row class="bg-primary text-justify">
-                                <br />
+                               
                                 <h1 class="h1-responsive">Unit 2</h1>
                                 <h1 class="h1-responsive">Media Technologies Used for Teaching and Learning</h1>
                                 <br />
