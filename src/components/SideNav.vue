@@ -20,7 +20,7 @@
                         color="info">
             <div slot="header">
                 <div class="p-5">
-                    <h2 class="h2-responsive blue-text">IDE-EDC 120</h2><br/>
+                    <h2 class="h2-responsive red-text">IDE-EDC 120</h2><br/>
                     <img src="../assets/uniswa.gif"
                          class="img-fluid" />
                 </div>
